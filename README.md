@@ -1,6 +1,8 @@
 # Proto-Screwshield (Wingshield) R3 Kit for Arduino
 
-<a href="http://www.adafruit.com/products/284"><img src="assets/board.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/196"><img src="assets/board.jpg?raw=true" width="500px">
+Click here to purchase one from the Adafruit shop
+</a>
 
 The next generation Proto-ScrewShield is a dual-purpose prototyping shield. Not only does it have a large 0.1" grid prototyping area but it also extends the Arduino pins to sturdy, secure, and dependable screw terminal blocks. You even get a few bonus terminals for extra GND and four 'free' terminals for whatever connections you wish! __New! As of June 23, 2014 we now have an R3 update to this design__ - we now have a stacking header for the ICSP 2x3 pins and breakout the SCL and SDA pins. It now works much better with R3 UNO's, Mega, Leonardo, as well as stacking nicely with any shield.
 
