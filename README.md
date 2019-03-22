@@ -14,5 +14,3 @@ The stack-able wing design allows you slip this under any shield and still get e
 - Reset button
 - Full set of stacking female header pins
 - Lots of 3.5mm terminal blocks to fill 36 breakouts on the board
-
-Comes as a kit of all through-hole parts. You'll need to assemble the kit using a soldering iron, diagonal cutters and solder but its an easy kit and should take less than half an hour. [Check out our tutorial guide for all you need to know to make this kit!](https://learn.adafruit.com/adafruit-proto-screw-shield) ([If you have the old 'wings' version, check out this page.](http://wingshieldindustries.com/products/screwshield/))
